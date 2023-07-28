@@ -14,4 +14,4 @@ The algorithm is giving an image of either a bird model or a Non bird model. exa
 6. Then run this code  Type (imagenet.py --model=$NET/resnet18.onnx --input_blob=input_0 --output_blob=output_0 --labels=$DATASET/labels.txt $DATASET/test/b1.jpg bird.jpg)
 7. A image should pop up in VScode inthe classification folder under (.gitignore)
 8. And Click to display image.
-(video link)
+(video link) https://youtu.be/UXcye2MD72A
